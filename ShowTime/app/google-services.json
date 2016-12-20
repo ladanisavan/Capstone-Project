@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "227689704337",
+    "firebase_url": "https://show-time-35256.firebaseio.com",
+    "project_id": "show-time-35256",
+    "storage_bucket": "show-time-35256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227689704337:android:d7410545a37b9c0a",
+        "android_client_info": {
+          "package_name": "com.nanodegree.android.showtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227689704337-7uakgo2jjjcoqn8kelgntahsgqth6ofg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO7tG2u_v8H7dgPLWs-EGiAFH4mukMBG8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
